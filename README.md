@@ -1,10 +1,10 @@
 <img src="https://github.com/Ahmedlebshten/Ahmedlebshten/blob/main/assets/img1.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-👋 About Me
+👋 About Me:
 - Hi there! I'm Ahmed Ashraf
 - A passionate DevOps Engineer in training, building a strong foundation in automation and cloud infrastructure.  
   
-🚀 My Journey 
+🚀 My Journey:
 - 🐧 Experienced in Linux system administration and shell scripting.  
 - 🐳 Hands-on experience with Docker and containerization.  
 - ☸️ Currently learning Kubernetes and container orchestration for production environments.  
@@ -13,7 +13,7 @@
 - 📚 Continuously improving my skills in DevOps tools, cloud technologies, and Infrastructure as Code.  
 - 💡 Open to learning, collaborating, and contributing to open-source DevOps projects.  
 
-🧠 My Technical Skills
+🧠 My Technical Skills:
  <p>
    <!-- Existing badges -->
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -38,7 +38,7 @@
 
   </p>
 
-📫 How to reach me
+📫 How To Reach Me:
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/ahmed-ashraf111/" target="_blank">
   <img align="left" alt="Ahmed Lebshten | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
