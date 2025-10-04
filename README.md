@@ -5,3 +5,6 @@
 -   :seedling: Currently learning **Golang**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds..
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)]([https://www.linkedin.com/in/jayrajroshan/](https://www.linkedin.com/in/ahmed-ashraf111/))
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@ahmedlebshtenlebshten@gmail.com)
