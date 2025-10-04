@@ -36,5 +36,12 @@
 
   </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)]([https://www.linkedin.com/in/ahmed-ashraf111/](https://www.linkedin.com/in/ahmed-ashraf111/))
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ahmedlebshtenlebshten@gmail.com)](mailto:mail@ahmedlebshtenlebshten@gmail.com)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/ahmed-ashraf111/" target="_blank">
+  <img align="left" alt="Ahmed Lebshten | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:ahmedlebshtenlebshten@gmail.com">
+  <img align="left" alt="Ahmed Lebshten | Gmail" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+</a>
