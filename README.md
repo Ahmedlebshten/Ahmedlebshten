@@ -1,14 +1,16 @@
 <img src="https://github.com/Ahmedlebshten/Ahmedlebshten/blob/main/assets/img1.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-
-- 👋 Hi there! I'm Ahmed Ashraf  
-- ⚙️ A passionate DevOps Engineer in training, building a strong foundation in automation and cloud infrastructure.  
-- 🐧 Experienced with Linux system administration and shell scripting.  
-- 🐳 Working hands-on with Docker and containerization.  
-- ☸️ Learning Kubernetes and container orchestration for production environments.  
-- ☁️ Exploring AWS services (EC2, S3, EBS, IAM, AMI) and cloud deployment best practices.  
+👋 About Me
+- Hi there! I'm Ahmed Ashraf
+- A passionate DevOps Engineer in training, building a strong foundation in automation and cloud infrastructure.  
+  
+🚀 My Journey 
+- 🐧 Experienced in Linux system administration and shell scripting.  
+- 🐳 Hands-on experience with Docker and containerization.  
+- ☸️ Currently learning Kubernetes and container orchestration for production environments.  
+- ☁️ Exploring AWS services (EC2, S3, EBS, IAM, AMI) and best practices for cloud deployments.  
 - 🔧 Familiar with CI/CD pipelines, version control (Git & GitHub), and configuration management.  
-- 📚 Continuously improving my skills in DevOps tools, cloud technologies, and infrastructure as code.  
+- 📚 Continuously improving my skills in DevOps tools, cloud technologies, and Infrastructure as Code.  
 - 💡 Open to learning, collaborating, and contributing to open-source DevOps projects.  
 
 🧠 My Technical Skills
