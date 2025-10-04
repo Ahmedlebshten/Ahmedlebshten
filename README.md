@@ -11,7 +11,7 @@
 - 📚 Continuously improving my skills in DevOps tools, cloud technologies, and infrastructure as code.  
 - 💡 Open to learning, collaborating, and contributing to open-source DevOps projects.  
 
-
+🧠 My Technical Skills
  <p>
    <!-- Existing badges -->
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -36,6 +36,7 @@
 
   </p>
 
+📫 How to reach me
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/ahmed-ashraf111/" target="_blank">
   <img align="left" alt="Ahmed Lebshten | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
