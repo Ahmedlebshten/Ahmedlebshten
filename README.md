@@ -35,7 +35,9 @@
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=YAML&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
   </p>
 
 📫 How To Reach Me:
