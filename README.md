@@ -32,6 +32,8 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=YAML&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
   </p>
 
 📫 How To Reach Me:
