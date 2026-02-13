@@ -23,15 +23,16 @@
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=YAML&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Loki-0A0A0A?style=flat-square&logo=Grafana%20Loki&logoColor=white"/>
   </p>
 
 📫 How To Reach Me:
