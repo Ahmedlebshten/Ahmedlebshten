@@ -27,13 +27,13 @@
 <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat-square&logo=GitHub%20Actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=YAML&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Loki-0A0A0A?style=flat-square&logo=Grafana%20Loki&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
   </p>
 
 📫 How To Reach Me:
