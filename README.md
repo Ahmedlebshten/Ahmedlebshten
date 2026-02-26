@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Loki-0A0A0A?style=flat-square&logo=Grafana%20Loki&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
   </p>
 
 📫 How To Reach Me:
