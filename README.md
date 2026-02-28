@@ -9,6 +9,7 @@
 
   
 ## 🛠 Technology Stack:
+
   • Cloud: AWS (EKS, EC2, IAM, S3, EBS, ECR).
   •	Infrastructure as Code: Terraform.
   •	CI/CD: Jenkins, GitHub Actions, ArgoCD (GitOps).
