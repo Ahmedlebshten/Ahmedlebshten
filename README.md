@@ -1,6 +1,6 @@
 <img src="https://github.com/Ahmedlebshten/Ahmedlebshten/blob/main/assets/img1.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-## 👋 About Me:
+## 👋 DevOps Profile:
   • DevOps Engineer focused on building scalable, automated, and cloud-native systems.  
   • Design and implement end-to-end CI/CD pipelines for modern application delivery.  
   • Provision infrastructure on AWS using Terraform and Infrastructure as Code principles.  
@@ -8,16 +8,16 @@
   • Passionate about automation, security best practices, and building production-ready environments on AWS.
 
   
-## 🛠 Technical Stack
-	•	Cloud: AWS (EKS, EC2, IAM, S3, EBS, ECR)
-	•	Infrastructure as Code: Terraform
-	•	CI/CD: Jenkins, GitHub Actions, ArgoCD (GitOps)
-	•	Containers & Orchestration: Docker, Kubernetes
-	•	Monitoring: Prometheus, Grafana, Loki
-	•	System & Automation: Linux, Bash, Git & GitHub
+## 🛠 Technology Stack:
+  • Cloud: AWS (EKS, EC2, IAM, S3, EBS, ECR)
+  •	Infrastructure as Code: Terraform
+  •	CI/CD: Jenkins, GitHub Actions, ArgoCD (GitOps)
+  •	Containers & Orchestration: Docker, Kubernetes
+  •	Monitoring: Prometheus, Grafana, Loki
+  •	System & Automation: Linux, Bash, Git & GitHub
 
 
-## 🧠 My Technical Skills:
+## 🧠 Technical Highlights:
  <p>
    <!-- Existing badges -->
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
