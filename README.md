@@ -1,17 +1,26 @@
 <img src="https://github.com/Ahmedlebshten/Ahmedlebshten/blob/main/assets/img1.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-👋 About Me:
+## 👋 About Me:
 - Hi there! I'm Ahmed Ashraf
-- A passionate DevOps Engineer in training, building a strong foundation in automation and cloud infrastructure.  
+- DevOps Engineer focused on building scalable, automated, and cloud-native systems.
+- I design end-to-end CI/CD pipelines, provision infrastructure using Terraform, and deploy containerized applications on Kubernetes (EKS) following GitOps practices.
+- Passionate about automation, security best practices, and building production-ready environments on AWS.
+
   
-🚀 My Journey:
-- 🐧 Experienced in Linux system administration and shell scripting.  
-- 🐳 Hands-on experience with Docker and containerization.  
-- ☸️ Currently learning Kubernetes and container orchestration for production environments.  
-- ☁️ Exploring AWS services (EC2, S3, EBS, IAM, AMI) and best practices for cloud deployments.  
-- 🔧 Familiar with CI/CD pipelines, version control (Git & GitHub), and configuration management.  
-- 📚 Continuously improving my skills in DevOps tools, cloud technologies, and Infrastructure as Code.  
-- 💡 Open to learning, collaborating, and contributing to open-source DevOps projects.  
+## 🛠 Technical Stack:
+#### System & Automation: 
+Linux, Bash, Git & GitHub
+#### Cloud: 
+AWS (EKS, EC2, IAM, S3, EBS, ECR)
+#### Infrastructure as Code: 
+Terraform
+#### CI/CD: 
+Jenkins, GitHub Actions, ArgoCD (GitOps)
+#### Containers & Orchestration: 
+Docker, Kubernetes
+#### Monitoring: 
+Prometheus, Grafana, Loki
+
 
 🧠 My Technical Skills:
  <p>
