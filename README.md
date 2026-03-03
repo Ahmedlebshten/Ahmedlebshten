@@ -1,6 +1,6 @@
 <img src="https://github.com/Ahmedlebshten/Ahmedlebshten/blob/main/assets/img1.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-## 👋 DevOps Profile:
+## 👋 About Me:
   - DevOps Engineer focused on building scalable, automated, and cloud-native systems.  
   - Design and implement end-to-end CI/CD pipelines for modern application delivery.  
   - Provision infrastructure on AWS using Terraform and Infrastructure as Code principles.  
