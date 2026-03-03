@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/-Loki-0A0A0A?style=flat-square&logo=Grafana%20Loki&logoColor=white"/>
   </p>
 
-## 📫 How To Reach Me:
+## 📫 Connect With Me:
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/ahmed-ashraf111/" target="_blank">
   <img align="left" alt="Ahmed Lebshten | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
